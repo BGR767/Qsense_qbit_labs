@@ -95,11 +95,12 @@ footer {
 .product-image {
   width: 360px;
   height: 360px;
-  object-fit: cover;
+  object-fit: contain;
   border-radius: 10px;
   margin-bottom: 20px;
   opacity: 0.95;
 }
+
 
 
 
