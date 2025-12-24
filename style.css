@@ -147,8 +147,22 @@ footer {
   .product-image-box img {
     width: 100%;
     height: 220px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    opacity: 0.95;
   }
+ .product-image {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  opacity: 0.95;
 }
+
+}
+
 
 
 
