@@ -138,7 +138,7 @@ footer {
   opacity: 0.9;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 2000px) {
   .product-row {
     flex-direction: column;
     text-align: center;
@@ -149,6 +149,7 @@ footer {
     height: 220px;
   }
 }
+
 
 
 
