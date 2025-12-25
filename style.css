@@ -27,6 +27,17 @@ body {
 /* =========================
    NAVBAR
    ========================= */
+.nav-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.nav-logo {
+  height: 36px;
+  width: auto;
+}
+
 nav {
   background-color: #020924;
 }
@@ -239,4 +250,5 @@ footer {
     text-align: center;
   }
 }
+
 
