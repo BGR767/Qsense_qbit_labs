@@ -34,8 +34,8 @@ body {
 }
 
 .nav-logo {
-  height: 36px;
-  width: auto;
+  height: 70px;
+  width: 70px;
 }
 
 nav {
@@ -250,5 +250,6 @@ footer {
     text-align: center;
   }
 }
+
 
 
