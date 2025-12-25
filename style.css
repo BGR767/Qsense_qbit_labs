@@ -189,10 +189,10 @@ footer {
    ========================= */
 @media (max-width: 768px) {
 
-  nav .container {
+  /*nav .container {
     flex-direction: column;
     gap: 16px;
-  }
+  }*/
 
   nav ul {
     flex-direction: column;
@@ -250,6 +250,7 @@ footer {
     text-align: center;
   }
 }
+
 
 
 
