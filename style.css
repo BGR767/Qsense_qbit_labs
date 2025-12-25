@@ -30,12 +30,12 @@ body {
 .nav-brand {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 2px;
 }
 
 .nav-logo {
-  height: 70px;
-  width: 70px;
+  height: 100px;
+  width: 100px;
 }
 
 nav {
@@ -250,6 +250,7 @@ footer {
     text-align: center;
   }
 }
+
 
 
 
